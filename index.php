@@ -1,4 +1,4 @@
 <?php
 echo "desktop";
-echo "desktop-1";
+echo "d-2";
 ?>
