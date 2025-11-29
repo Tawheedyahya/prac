@@ -1,3 +1,3 @@
 <?php
-echo "main-1";
+echo "main";
 ?>
