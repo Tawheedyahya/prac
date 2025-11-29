@@ -1,3 +1,3 @@
 <?php
-echo "copy-1";
+echo "cho";
 ?>
